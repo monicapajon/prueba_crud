@@ -10,7 +10,7 @@
 ---
 
 
-<p align="left"> <a href="https://tenor.com/view/solicy-task-completed-gif-26090573"></a>
+<p align="center"><img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300px"></p>
  <h3 align="center"> 💻 Éste es el Trabajo Práctico final hecho en el curso Full Stack Avanzado UTN</h3>
 <h5 align="center">Task Notepad es una aplicación web que nos permite listar tareas, consultarlas, agregarlas, editarlas y eliminarlas.</h5>
 
