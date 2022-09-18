@@ -75,7 +75,7 @@ PORT = 5000
 &nbsp;
 
 <p align="center">Task Accomplished</p>
-<p align="center"><img src="https://tenor.com/view/its-a-big-job-big-job-job-task-huge-task-gif-15032638" width="300px"></p>
+<p align="center"><img src="https://media.giphy.com/media/7JEPMRdfPLfq1sjZUJ/giphy-downsized-large.gif" width="300px"></p>
  
  
 &nbsp;
