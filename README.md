@@ -19,7 +19,7 @@
 
 ---
 
-<p>👩‍💻 Hecho  por la alumna:</p>
+<p align="center">👩‍💻 Hecho  por la alumna:</p>
 
 ```GitHub profil ↓```
 <ul>
@@ -49,7 +49,7 @@ PORT = 5000
    
 &nbsp;
 
-👍 Herramientas Utilizadas
+<h3 align="center">Herramientas</h3>
 - [x] HTML, CSS, JavaScript, Node JS,Bootstrap, Express, Express-Handlebars, Mongoose, Morgan, Nodemon, Mongodb.-
 
 
@@ -63,7 +63,7 @@ PORT = 5000
 &nbsp;
 
 
-<p align="">🔗 Link al proyecto: <a href="">Task Notepad</a></p>
+<p align="">🔗 Link al proyecto deployado: <a href="">Task Notepad</a></p>
   
 &nbsp;
 
