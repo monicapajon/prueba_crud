@@ -1,7 +1,7 @@
 <div>
-<h1 align="center"><img src="./src/public/img/task.png" width="30px"> Project: Task Notepad</h1>
+<h1 align="center"><img src="./src/public/img/task.png"> Project: Task Notepad</h1>
 &nbsp;
-<p><img src="./src/public/img/no_task.png" width="30px"></p>
+<p><img src="./src/public/img/no_task.png""></p>
 </div>
 
 <p align="center"><img src="https://j.gifs.com/5ywJ1A.gif" width="350px"></p>
