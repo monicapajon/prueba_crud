@@ -10,7 +10,7 @@
 ---
 
 
-<p align="left"> <img src="https://tenor.com/view/solicy-task-completed-gif-26090573"></p>
+<p align="left"> <img src="https://tenor.com/view/solicy-task-completed-gif-26090573" width="300"></p>
 <h3 align="center"> 💻 Éste es el Trabajo Práctico final hecho en el curso Full Stack Avanzado UTN</h3>
 <h5 align="center">Task Notepad es una aplicación web que nos permite listar tareas, consultarlas, agregarlas, editarlas y eliminarlas.</h5>
 
@@ -40,7 +40,7 @@ PORT = 5000
 &nbsp;
 
 ---
-<p align="right"> <img src="https://tenor.com/view/checklist-task-completed-gif-14169529" width=""></p>
+<p align="right"> <img src="https://tenor.com/view/checklist-task-completed-gif-14169529" width="300"></p>
 
 &nbsp;
 
@@ -75,7 +75,7 @@ PORT = 5000
 &nbsp;
 
 <p align="center">Task Accomplished</p>
-<p align="center"><img src="https://tenor.com/view/its-a-big-job-big-job-job-task-huge-task-gif-15032638" width="200px"></p>
+<p align="center"><img src="https://tenor.com/view/its-a-big-job-big-job-job-task-huge-task-gif-15032638" width="300px"></p>
  
  
 &nbsp;
