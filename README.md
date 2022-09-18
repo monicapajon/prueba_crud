@@ -56,14 +56,14 @@ PORT = 5000
    
 &nbsp;
 
-🎛 Funcionalidades principales
+<h3 align="center">🎛 Funcionalidades principales</h3>
 - [x] Se puede listar tareas, verlas, agregarlas, editarlas y eliminarlas.-
 - [x] Posee una columna en la cual la aplicación coloca automáticamente el número de tarea.-
 - [x] Además se le agregó un botón que permite seleccionar la opción "DONE" (tarea realizada) o "UNDONE" (tarea incompleta).- 
 &nbsp;
 
 
-<p align="">🔗 Link al proyecto deployado: <a href="">Task Notepad</a></p>
+<p align="">🔗 Link al proyecto deployado: <a href="https://taskNotepad.netlify.app">Task Notepad</a></p>
   
 &nbsp;
 
