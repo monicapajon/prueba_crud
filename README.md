@@ -10,8 +10,8 @@
 ---
 
 
-<p align="center"><img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300px"></p>
- <h3 align="center"> 💻 Éste es el Trabajo Práctico final hecho en el curso Full Stack Avanzado UTN</h3>
+
+ <h3 align="center"> 💻Trabajo Práctico Final - Curso Full Stack Avanzado - UTN</h3>
 <h5 align="center">Task Notepad es una aplicación web que nos permite listar tareas, consultarlas, agregarlas, editarlas y eliminarlas.</h5>
 
 
@@ -40,7 +40,6 @@ PORT = 5000
 &nbsp;
 
 ---
-<p align="right"> <img src="https://tenor.com/view/checklist-task-completed-gif-14169529" width="300"></p>
 
 &nbsp;
 
